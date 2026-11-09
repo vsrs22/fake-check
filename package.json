@@ -1,0 +1,8 @@
+{
+  "name": "fake-check",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FAKE-CHECK: detect AI-generated and deepfake media. Sightengine API proxy plus web page.",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
